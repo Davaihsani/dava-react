@@ -1,0 +1,13 @@
+.footer {
+    text-align: center;   
+}
+
+.footer .item {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer .item i {
+    justify-content: center;
+    position: absolute;
+}
